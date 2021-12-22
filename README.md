@@ -1,3 +1,5 @@
+**İletişim: yaziici.ua@gmail.com**
+
 # Projenin Kurulumu
 ## Dosyaları Çıkartma
 Rar ‘la sıkıştırılmış dosyayı masaüstünde uygun bir klasöre çıkartıyoruz
